@@ -1,0 +1,1 @@
+{"request":{"method":"GET","url":"getFico","apiModule":"TDM","gitLink":"https://github.com/yourtime/fff.git"},"response":{"status":"200","body":"{\"rrr\":\"rr\"}","headers":{"Content-Type":"application/json"}}}
