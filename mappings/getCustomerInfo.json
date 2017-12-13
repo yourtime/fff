@@ -1,0 +1,1 @@
+{"request":{"method":"GET","url":"getCustomerInfo","apiModule":"AccountServices","gitLink":"https://github.com/yourtime/fff.git"},"response":{"status":"201","body":"{\"test1\":\"test2\"}","headers":{"Content-Type":"application/json"}}}
